@@ -1,7 +1,7 @@
 # Human-Emotion-Detection-using-Convolutional-Neural-Networks
 Human Emotion Detection using Convolutional Neural Networks
 
- Code 
+- Code 
  
 1. DataProcessing.ipynb : Code for data visualization, data augmentation and mean center 
 2. Shallow_CNN.ipynb: Code for shallow CNN model and results 
@@ -10,6 +10,6 @@ Human Emotion Detection using Convolutional Neural Networks
 5. Models Folder: This folder contains trained models in .h5 format and images of model structures. 
 6. Data Files Folder: Saves .npy data files in this folder after data processing stage 
  
- Dataset: 
+- Dataset: 
  
 1. fer2013.csv : Kaggle Facial Expression Recognition  dataset 
